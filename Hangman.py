@@ -1,5 +1,5 @@
 print("Let's play Hang Man!")
-correct_letters = ['a','m','o','n','g','u','s']
+correct_letters = ['r','o','n','a','l','d','o']
 good_letters = ['_','_','_','_','_','_','_']
 bad_letters = []
 status = "lose"
